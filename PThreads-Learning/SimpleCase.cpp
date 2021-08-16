@@ -12,7 +12,7 @@ void *thread(void *) {
     return NULL;
 }
 
-int main() {
+int main1() {
 
     pthread_t id;
     int i, ret;
